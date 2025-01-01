@@ -27,7 +27,7 @@ I am a software developer. I gained my programming skills through self-learning 
 <img src='https://github.com/user-attachments/assets/c9c9027d-e3e5-4960-aa98-8bbed116c57a' width='50px' />
 
 ### Testing Tools
-<img src='https://github.com/user-attachments/assets/5db67498-a6c4-4fb3-9cf2-514de7e7b540' width='50px' />
+<img src='https://github.com/user-attachments/assets/5db67498-a6c4-4fb3-9cf2-514de7e7b540' width='80px' />
 
 ## Contact Me
 [<img src='https://github.com/user-attachments/assets/a2db1843-dd19-431b-9d11-d639a5ad7f7b' width='100px' />](https://www.linkedin.com/in/chaima-jebri-3502a4201/)
